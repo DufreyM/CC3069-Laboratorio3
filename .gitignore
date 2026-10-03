@@ -1,0 +1,13 @@
+# Ejecutables generados al compilar
+busqueda_clave_aes_secuencial
+busqueda_clave_aes_secuencial_mejorado
+busqueda_clave_aes_mpi
+
+# Herramientas usadas solo para tomar las capturas del informe
+capturar.ps1
+evidencia.sh
+capturas/
+
+# El informe se entrega en PDF
+*.docx
+~$*

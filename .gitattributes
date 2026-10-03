@@ -1,0 +1,8 @@
+# Los programas se compilan y ejecutan en Linux: siempre con finales de linea LF.
+*.c text eol=lf
+*.sh text eol=lf
+Makefile text eol=lf
+*.md text eol=lf
+*.drawio text eol=lf
+*.pdf binary
+*.png binary
